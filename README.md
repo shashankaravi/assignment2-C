@@ -27,3 +27,16 @@ Vijayawada is a city in the **southeast** Indian state of **Andhra Pradesh**. It
 - extra specs.
 
 Take me to [AboutMe](AboutMe.md)
+
+---
+## Indian Resturant
+This is the Menu, location and price table
+
+| Menu		    | Location	  | Price    |
+| ------------- | --------    | -------- |
+| biryani	    | Indian pot  | $1.50    |
+| Butter naan	| Indian pot  | $1.70    |
+| Dal           | Indian pot  | $1.20    |
+| Mandi	        | Indian pot  | $1.60    |
+
+---

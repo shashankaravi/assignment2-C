@@ -16,3 +16,12 @@ Vijayawada is a city in the **southeast** Indian state of **Andhra Pradesh**. It
 2. Finally maryville.
 
 ****
+
+### Products to be packed for enjoyment
+
+- Casual sneakers.
+- Heavy jacket.
+- Camera and lens.
+- Backpack.
+- cash.
+- extra specs.

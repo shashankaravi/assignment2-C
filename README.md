@@ -51,3 +51,33 @@ As Albert Einstein said:
 > So many books, so little time
 
 ---
+
+## Code fencing
+
+Aho–Corasick algorithm from **String Processing**
+
+>The Aho-Corasick algorithm can be used to efficiently search for multiple patterns in a large blob of text, making it a really useful algorithm in data science and many other areas.
+>Efficient string algorithms play an important role in many data science processes. Often they are what make such processes feasible enough for practical use.
+
+Aho–Corasick algorithm [Reference_link](https://en.wikipedia.org/wiki/Aho%E2%80%93Corasick_algorithm)
+
+code for Aho–Corasick Algorithms
+
+```
+
+void add_string(string const& s) {
+    int v = 0;
+    for (char ch : s) {
+        int c = ch - 'a';
+        if (trie[v].next[c] == -1) {
+            trie[v].next[c] = trie.size();
+            trie.emplace_back();
+        }
+        v = trie[v].next[c];
+    }
+    trie[v].leaf = true;
+}
+```
+
+
+Aho–Corasick algorithm [Code_link](https://cp-algorithms.com/string/aho_corasick.html)

@@ -40,3 +40,14 @@ This is the Menu, location and price table
 | Mandi	        | Indian pot  | $1.60    |
 
 ---
+
+---
+## Pithy Quotes
+
+As Albert Einstein said:
+
+> Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.
+
+> So many books, so little time
+
+---
